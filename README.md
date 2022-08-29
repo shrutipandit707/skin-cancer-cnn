@@ -11,7 +11,7 @@
 ## General Information
 - Provide general information about your project here.
 
-We will be using Exploratory Data Analysis Techniques for Loan Lending System.
+We will be using CNN Technique for detecting melanoma.
 
 - What is the background of your project?
 
